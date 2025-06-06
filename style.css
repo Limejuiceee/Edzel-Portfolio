@@ -78,6 +78,7 @@ a:hover {
 
 #hamburger-nav {
   display: none;
+
 }
 
 .hamburger-menu {
@@ -479,5 +480,6 @@ footer p {
 
 .contact-form-container button:hover {
   background-color: #0056b3;
+flex-direction: col;
 }
 
