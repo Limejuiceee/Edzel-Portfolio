@@ -464,8 +464,8 @@ article .icon {
 
 footer {
   height: 26vh;
-  margin: 0%;
-  background-color:gray;
+  margin: 0 1rem;
+  background-color:grey;
 }
 
 footer p {
